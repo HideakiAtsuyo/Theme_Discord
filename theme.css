@@ -1332,12 +1332,12 @@ circle[stroke*="rgb(141, 159, 225)"] {
 }
 
 .wordmark-2iDDfm:before {
-	content: "Discord";
+	content: "Discord =>";
 	font-weight: 700;
 }
 
 .wordmark-2iDDfm:after {
-	content: " => Dany-LF";
+	content: var(--Tag-DanyLF);
 }
 
 .wordmark-2iDDfm svg {
