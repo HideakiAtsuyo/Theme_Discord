@@ -1,4 +1,3 @@
-# Thème_Discord
+# Thème Discord
 
-
-Fait en prenant plusieurs autres thèmes
+Created using several other themes.
