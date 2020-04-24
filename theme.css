@@ -12,13 +12,14 @@
 	--Secondary-Background-Colourr: rgba(48,48,48,.3);
 	--Tag-DanyLF: " Dany-LF#6669";
 	--main-blue: #224466;
-	--main-blue-light: #3973ac;
+	/*--main-blue-light: #3973ac;*/
+	--main-blue-light: #000000;
 	--main-blue-light-alt: #4080bf;
 	--main-green: #00ff0e;
 	--main-red: #712828;
 	--main-purple: #4e377b;
 	--main-dark: #181818;
-	--main-light: #484848;
+	--main-light: #0006ff;
 	--bgImage: url(https://i.imgur.com/CZlzgPG.png)
 }
 
@@ -1250,12 +1251,12 @@ circle[stroke*="rgb(141, 159, 225)"] {
 }
 
 .privateChannels-1nO12o .selected-aXhQR6 .layout-2DM8Md {
-	background-color: rgba(0,0,0,.25)!important;
+	background-color: rgba(0,0,0,25)!important;
 	border: 1px solid var(--main-blue)
 }
 
 .membersWrap-2h-GB4 .selected-aXhQR6 .layout-2DM8Md,.side-8zPYf6 .themed-OHr7kt.selected-3s45Ha.item-PXvHYJ,.topPill-30KHOu .themed-OHr7kt.selected-3s45Ha.item-PXvHYJ {
-	background-color: rgba(34,68,102,.35)!important;
+	background-color: rgba(34,68,102,35)!important;
 	border: 1px solid var(--main-blue)!important
 }
 
