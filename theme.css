@@ -10,7 +10,7 @@
 	--Notification-Colour: rgba(255, 0, 0, 1);
 	
 	--Secondary-Background-Colourr: rgba(48,48,48,.3);
-	--Tag-DanyLF: " Dany-LF#6669";
+	--Tag-Hideaki: " Hideaki#9897";
 	--main-blue: #224466;
 	/*--main-blue-light: #3973ac;*/
 	--main-blue-light: #000000;
@@ -1338,7 +1338,7 @@ circle[stroke*="rgb(141, 159, 225)"] {
 }
 
 .wordmark-2iDDfm:after {
-	content: var(--Tag-DanyLF);
+	content: var(--Tag-Hideaki);
 }
 
 .wordmark-2iDDfm svg {
